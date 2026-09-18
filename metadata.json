@@ -1,0 +1,6 @@
+{
+  "name": "School Management System",
+  "description": "Comprehensive School Management System with role-based portals for Admins, Teachers, and Parents covering student registration, student & teacher attendance, homework management, messaging, scorecards, and fee tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
